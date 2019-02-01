@@ -1,5 +1,12 @@
 # jsCodingChallenges
-Interview / Technical Coding Challenges in JavaScript with Solution
+Interview / Technical Coding Challenges in JavaScript with Solutions
+
+###### Note: 
+Most of the solutions provided are developed from scratch and might be prone to any bugs/issues;
+
+If you find any bugs, please consider raising it [here](https://github.com/limatgans/jsCodingChallenges/issues)
+
+If you have solutions for some issues, please [pull a request](https://github.com/limatgans/jsCodingChallenges/pulls)
 
 ## Index
 ### Level - Basic
@@ -12,4 +19,7 @@ Interview / Technical Coding Challenges in JavaScript with Solution
 6. [Check Whether A Given String ends with Target String (without using .endsWith() method)](/Basic/06_endsWith.js)
 7. [Repeat a String N times](/Basic/07_repeatStringNumTimes.js)
 8. [Truncate a String](/Basic/08_truncateString.js)
-9. 
+9. [Find an Element in an array](/Basic/09_findElementInArray.js)
+
+## Question Sources:
+1. [FreeCodeCamp](https://www.freecodecamp.org/)
