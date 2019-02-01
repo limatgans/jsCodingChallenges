@@ -1,7 +1,7 @@
 /**
  * Reverse a String
  * Reverse the provided string.
- */
+*/
 
 function reverseString(str="") {
 	console.log("Given String : ", str);
