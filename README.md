@@ -1,11 +1,9 @@
 # jsCodingChallenges
 Interview / Technical Coding Challenges in JavaScript with Solutions
 
-###### Note: 
+#### Note: 
 Most of the solutions provided are developed from scratch and might be prone to any bugs/issues;
-
 If you find any bugs, please consider raising it [here](https://github.com/limatgans/jsCodingChallenges/issues)
-
 If you have solutions for some issues, please [pull a request](https://github.com/limatgans/jsCodingChallenges/pulls)
 
 ## Index
@@ -20,6 +18,8 @@ If you have solutions for some issues, please [pull a request](https://github.co
 7. [Repeat a String N times](/Basic/07_repeatStringNumTimes.js)
 8. [Truncate a String](/Basic/08_truncateString.js)
 9. [Find an Element in an array](/Basic/09_findElementInArray.js)
+10. [Title Case A Sentence](/Basic/10_titleCaseASentence.js)
+11. 
 
 ## Question Sources:
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
