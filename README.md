@@ -22,5 +22,11 @@ If you have solutions for some issues, please [pull a request](https://github.co
 10. [Title Case A Sentence](/Basic/10_titleCaseASentence.js)
 11. [Find my place in this sorted array](/Basic/11_getIndexToIns.js)
 
+### Level - Intermediate
+
+1. [Sum All Numbers in a Range](/Intermediate/01_sumOfNumbersInRange.js)
+2. [Symmetric Difference of Two Arrays](/Intermediate/02_diffInArray.js)
+3. 
+
 ## Question Sources:
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
