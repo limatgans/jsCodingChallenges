@@ -30,6 +30,8 @@ If you have solutions for some issues, please [pull a request](https://github.co
 4. [Find a match in Array of Objects](/Intermediate/04_findAMatchInArrOfObj.js)
 5. [Spinal Case](/Intermediate/05_spinalCase.js)
 6. [Pig Latin](/Intermediate/06_pigLatin.js)
-7. 
+7. [Search and Replace A Word in Sentence](/Intermediate/07_searchAndReplaceAWord.js)
+8. 
+
 ## Question Sources:
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
