@@ -27,7 +27,7 @@ If you have solutions for some issues, please [pull a request](https://github.co
 1. [Sum All Numbers in a Range](/Intermediate/01_sumOfNumbersInRange.js)
 2. [Symmetric Difference of Two Arrays](/Intermediate/02_diffInArray.js)
 3. [Remove Given Elements from the Array](/Intermediate/03_removeElementsFromArr.js)
-4. 
+4. [Find a match in Array of Objects](/Intermediate/04_findAMatchInArrOfObj.js)
 
 ## Question Sources:
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
