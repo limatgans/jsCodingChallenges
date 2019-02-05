@@ -28,6 +28,7 @@ If you have solutions for some issues, please [pull a request](https://github.co
 2. [Symmetric Difference of Two Arrays](/Intermediate/02_diffInArray.js)
 3. [Remove Given Elements from the Array](/Intermediate/03_removeElementsFromArr.js)
 4. [Find a match in Array of Objects](/Intermediate/04_findAMatchInArrOfObj.js)
-
+5. [Spinal Case](/Intermediate/05_spinalCase.js)
+6. 
 ## Question Sources:
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
