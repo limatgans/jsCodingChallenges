@@ -33,6 +33,8 @@ If you have solutions for some issues, please [pull a request](https://github.co
 7. [Search and Replace A Word in Sentence](/Intermediate/07_searchAndReplaceAWord.js)
 8. [DNA Pairing](/Intermediate/08_dnaPairing.js)
 9. [Missing Letter](/Intermediate/09_missingLetter.js)
+10. [Return a new array of unique values in the order of the original provided arrays.](/Intermediate/10_sortedUnion.js)
+11.
 
 ## Question Sources:
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
