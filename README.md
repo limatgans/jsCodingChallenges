@@ -34,7 +34,8 @@ If you have solutions for some issues, please [pull a request](https://github.co
 8. [DNA Pairing](/Intermediate/08_dnaPairing.js)
 9. [Missing Letter](/Intermediate/09_missingLetter.js)
 10. [Return a new array of unique values in the order of the original provided arrays.](/Intermediate/10_sortedUnion.js)
-11.[Convert HTML Entities](/Intermediate/11_convertHTMLEntities.js)
+11. [Convert HTML Entities](/Intermediate/11_convertHTMLEntities.js)
+12. [Sum of All Odd Fibonacci Numbers](/Intermediate/12_sumOfAllOddFibbo.js)
 
 ## Question Sources:
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
