@@ -37,6 +37,7 @@ If you have solutions for some issues, please [pull a request](https://github.co
 11. [Convert HTML Entities](/Intermediate/11_convertHTMLEntities.js)
 12. [Sum of All Odd Fibonacci Numbers](/Intermediate/12_sumOfAllOddFibbo.js)
 13. [Sum of All Prime Numbers](/Intermediate/13_sumOfAllPrimes.js)
+14. [LCM for a given range](/Intermediate/14_lcmOfRange.js)
 
 ## Question Sources:
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
