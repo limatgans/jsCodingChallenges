@@ -40,7 +40,7 @@ If you have solutions for some issues, please [pull a request](https://github.co
 14. [LCM for a given range](/Intermediate/14_lcmOfRange.js)
 15. [Flatten a Nested Array](/Intermediate/15_flattenNestedArray.js)
 16. [Binary Agents](/Intermediate/16_binaryAgents.js)
-16. [Check if the predicate is truthy on all elements of an array of objects](/Intermediate/17_isPropTrueEverywhere.js)
+17. [Check if the predicate is truthy on all elements of an array of objects](/Intermediate/17_isPropTrueEverywhere.js)
 
 ## Question Sources:
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
