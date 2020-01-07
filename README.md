@@ -42,5 +42,14 @@ If you have solutions for some issues, please [pull a request](https://github.co
 16. [Binary Agents](/Intermediate/16_binaryAgents.js)
 17. [Check if the predicate is truthy on all elements of an array of objects](/Intermediate/17_isPropTrueEverywhere.js)
 
+### Level - Advanced 
+
+1. [Palindrome Checker](/Advanced/01_PalindromeChecker.js)
+2. 
+3. [Caesars Cipher](/Advanced/rot13.js)
+4. 
+5. 
+
+
 ## Question Sources:
 1. [FreeCodeCamp](https://www.freecodecamp.org/)
